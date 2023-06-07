@@ -1,0 +1,34 @@
+* {margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+
+
+}
+
+
+
+body{background-color: burlywood;
+}
+
+header{align-content: center;
+    width: 100%;
+    padding: 20px;
+    background-color: crimson;
+}
+
+h1{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: blanchedalmond;
+
+}
+.nav-bar a {color: burlywood;
+
+
+}
+
+.Tira{color: firebrick; font-style: italic;}
+.Leches{color: chocolate; font-style: italic;}
+.M{color: brown; font-style: italic;}
+
+div{font-size: larger;}
+
